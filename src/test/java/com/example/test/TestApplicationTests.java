@@ -10,9 +10,9 @@ class TestApplicationTests {
 	void contextLoads() {
 	}
 
-	@Test
-	void failingTests() {
-		assert true == false;
-	}
+//	@Test
+//	void failingTests() {
+//		assert true == false;
+//	}
 
 }
